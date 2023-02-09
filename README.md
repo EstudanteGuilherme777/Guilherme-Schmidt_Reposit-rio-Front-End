@@ -1,6 +1,5 @@
-#Guilherme-Schmidt_Reposit-rio-Front-End
+# Eae!! Meu Nome é Guilherme Schmidt😝 💪, e este aqui é o meu repsitório
 Repositório das aulas de Front-End do Guizão🗿 🗿 
-Opa meu nome é Guilherme Schmidt😝 💪🏻 .
 Sou novo na area da informatica e gostaria de adquirir mais conhecimento na area👨‍💻 .
 
 Também com isso, sou muito dedicado em apreender coisas diversas, principalmente em areas que eu me interesso🦆 .
@@ -10,8 +9,10 @@ Até hoje nunca realizei nenhum estudo aprofundado sobre linguagens de programa�
 
 Sou estudante do Segundo Ano do Ensino Médio no Colégio CEEP Pedro Boaretto Neto, com o Curso Técnico em Desenvolvimento De Sistemas.🗿 🗿 
 
-Seria somente isso, se quiser me conhecer
+Seria somente isso.
+Contatos:
 (clique aqui)(https://www.instagram.com/oguilhermerd/)
+E-mail: guilhermeschmidt007@gmail.com
 
 
 
