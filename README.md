@@ -12,7 +12,7 @@
 
  -Seria somente isso.
  -Contatos:
-# (clique aqui)(https://www.instagram.com/oguilhermerd/)
+# https://www.instagram.com/oguilhermerd/
 # E-mail: guilhermeschmidt007@gmail.com
 
 
